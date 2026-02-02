@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 
-<div style='color:black;'>
+<!-- <div style='color:black;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -25,7 +25,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
 </ul>
 
-</div>
+</div> -->
 
 ## Welcome
 Include some information here about your chapter

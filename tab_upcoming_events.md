@@ -6,6 +6,7 @@ tab: true
 order: 3
 tags: OWASP Vignan
 ---
+
 ### 📅 Upcoming Events & Activities
 
 The **OWASP Vignan University Student Chapter** is gearing up for exciting cybersecurity initiatives focused on hands-on learning and industry exposure.

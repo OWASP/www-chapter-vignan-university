@@ -1,7 +1,7 @@
 ### Vignan University Information
-* Provide Group Information
+* [Vignan's Foundation for Science Technology and Research](https://vignan.ac.in/newvignan/)
 
 ### Social Links
-* [Meetup](#)
+* [Instagram](https://www.instagram.com/vu_claw/)
 
 

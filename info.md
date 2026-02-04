@@ -1,10 +1,3 @@
----
-layout: col-sidebar
-title: Information
-tags: OWASP Vignan
----
-
-
 ### Vignan University Information
 * [Vignan's Foundation for Science Technology and Research](https://vignan.ac.in/newvignan/)
 

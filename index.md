@@ -7,6 +7,10 @@ country: India
 meetup-group:
 ---
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/logo.png" style="width: 70%; margin-right: 10%;">
+  
+</div>
 
 
 ## Welcome
@@ -22,7 +26,3 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized OWASP donation button.
 
 Everyone is welcome and encouraged to participate in OWASP’s [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target="_blank"}, and the [Community Slack Channel](https://owasp.slack.com/){:target="_blank"}. We especially encourage diversity and inclusivity across all initiatives.
-
-## Next Meeting/Event
----------------------
-{% include chapter_events.html group=page.meetup-group %}

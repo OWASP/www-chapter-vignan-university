@@ -2,10 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Vignan University
-tags: example-tag
+tags: vignan-university-chapter
 region: Asia
-country: India
-meetup-group:
 
 ---
 

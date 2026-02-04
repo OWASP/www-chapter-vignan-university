@@ -14,5 +14,7 @@ Our chapter organized a major **Capture The Flag** competition at the **Vignan U
 * **Organizer:** Conducted by the CLAW (Cyber Club at Vignan) team.
 * **Prize:** Students competed for a cash prize pool of **6000 INR**.
 * **Activity:** The event focused on practical cybersecurity challenges and scanning/registration through the official portal.
-
+<p align="center">
+  <img src="ctf-poster.jpg" width="400" alt="CTF Event Poster">
+</p>
 ---

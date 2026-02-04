@@ -1,5 +1,5 @@
 ---
-layout: col-sidebar
+layout: tabs
 title: Tabs
 tags: vignan-university-chapter
 ---
